@@ -1,13 +1,10 @@
 # SQLite-TXT-members
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
  
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+ToOMORROW X TOGETHERの公式サイトのメンバー情報を取得して、SQLiteを用いたプロフィールのデータベースの作成
  
-"hoge"が何かを簡潔に紹介する
- 
-# DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+![image](https://user-images.githubusercontent.com/64777602/121476144-4537e080-ca01-11eb-90ad-9613ddb2b0d9.png)
+![image](https://user-images.githubusercontent.com/64777602/121476089-35200100-ca01-11eb-845e-a9d4c55913e3.png)
+
  
 # Features
  
@@ -15,46 +12,28 @@
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
- 
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
- 
+Python 3.8.5
+SQLite3
+
 # Usage
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+git clone git@github.com:nao1412/SQLite-TXT-members.git
+cd SQLite-TXT-members
+python txt.py
 ```
  
 # Note
  
-注意点などがあれば書く
+BTSの公式サイトも同じ要領でできます。
  
 # Author
  
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
- 
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+* 二宮直也
+* Airou
+
+# References
+https://www.htmllifehack.xyz/entry/2019/02/22/215849
+
