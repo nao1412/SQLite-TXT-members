@@ -19,6 +19,7 @@ python txt.py
 ```
 # Resulets
 データベースはこのように表示されます。
+
 ![image](https://user-images.githubusercontent.com/64777602/121476921-2f76eb00-ca02-11eb-875a-5fc76438ff6c.png)
 
 # Note
