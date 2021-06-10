@@ -10,6 +10,7 @@ ToOMORROW X TOGETHERの公式サイトのメンバー情報を取得して、SQL
  
 Python 3.8.5
 SQLite3
+VSCode extensions SQLite
 
 # Usage 
 ```bash
