@@ -6,19 +6,12 @@ ToOMORROW X TOGETHERの公式サイトのメンバー情報を取得して、SQL
 ![image](https://user-images.githubusercontent.com/64777602/121476089-35200100-ca01-11eb-845e-a9d4c55913e3.png)
 
  
-# Features
- 
-"hoge"のセールスポイントや差別化などを説明する
- 
 # Requirement
  
 Python 3.8.5
 SQLite3
 
-# Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
+# Usage 
 ```bash
 git clone git@github.com:nao1412/SQLite-TXT-members.git
 cd SQLite-TXT-members
