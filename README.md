@@ -17,7 +17,10 @@ git clone git@github.com:nao1412/SQLite-TXT-members.git
 cd SQLite-TXT-members
 python txt.py
 ```
- 
+# Resulets
+データベースはこのように表示されます。
+![image](https://user-images.githubusercontent.com/64777602/121476921-2f76eb00-ca02-11eb-875a-5fc76438ff6c.png)
+
 # Note
  
 BTSの公式サイトも同じ要領でできます。
