@@ -1,6 +1,6 @@
 # SQLite-TXT-members
  
-ToOMORROW X TOGETHERの公式サイトのメンバー情報をBeautifulSoupを用いて取得し、SQLiteを用いたプロフィールのデータベースの作成
+TOMORROW X TOGETHERの公式サイトのメンバー情報をBeautifulSoupを用いて取得し、SQLiteを用いたプロフィールのデータベースの作成
  
 ![image](https://user-images.githubusercontent.com/64777602/121476144-4537e080-ca01-11eb-90ad-9613ddb2b0d9.png)
 ![image](https://user-images.githubusercontent.com/64777602/121476711-f6d71180-ca01-11eb-943c-7d9f05ddf681.png)
